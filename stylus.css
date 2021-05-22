@@ -1,0 +1,11 @@
+body {
+    background-color: orchid;
+}
+
+.button{
+    background-color: darkturquoise;
+    width: 100px;
+    height: 30px;
+    border-radius: 12px;
+    border-color: blue;
+}
